@@ -17,6 +17,7 @@
 **使用方式：** 
 1. 打开CMD窗口
 2. 将create_shortcut_to_desktop.exe文件拖入CMD窗口
+[![](https://github.com/lwq6783293/MediaCtrl/tree/master/img/1.png)](https://github.com/lwq6783293/MediaCtrl/tree/master/img/1.png)
 3. 按下回车，你的电脑桌面即可生成四个快捷方式，把它们固定到你的任务栏进行使用吧
 
 **备注：** 
@@ -24,3 +25,4 @@
 - next：下一曲
 - p：播放-暂停
 - c：显示/隐藏桌面歌词
+[![](https://github.com/lwq6783293/MediaCtrl/tree/master/img/2.png)](https://github.com/lwq6783293/MediaCtrl/tree/master/img/2.png)
