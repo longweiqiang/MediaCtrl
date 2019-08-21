@@ -25,4 +25,5 @@
 - next：下一曲
 - p：播放-暂停
 - c：显示/隐藏桌面歌词
-- [![](https://github.com/lwq6783293/MediaCtrl/blob/master/img/2.png)]
+- 效果展示：
+![](https://github.com/lwq6783293/MediaCtrl/blob/master/img/2.png)
