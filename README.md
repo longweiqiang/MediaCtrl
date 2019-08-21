@@ -6,6 +6,8 @@
 - 该工具依据软件的快捷键(全局快捷键)实现，故网易云软件的快捷键需要保持默认
   
 **编译命令：**
+- pip install -r requirements.txt
+
 - pyinstaller -Fw --icon=pre.ico pre.py
 - pyinstaller -Fw --icon=next.ico next.py
 - pyinstaller -Fw --icon=p.ico p.py
