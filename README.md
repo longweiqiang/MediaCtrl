@@ -11,8 +11,9 @@
 - pyinstaller -Fw MediaCtrl.py
 
 **使用方式：** 
-1. 双击dist目录下的install.vbs文件后，桌面会生成四个快捷方式
-2. 将快捷方式固定到任务栏中，开始使用吧
+1. [点击下载](https://github.com/lwq6783293/MediaCtrl/releases "releases")
+2. 双击dist目录下的install.vbs文件后，桌面会生成四个快捷方式
+3. 将快捷方式固定到任务栏中，开始使用吧
 
 **备注：** 
 - pre：上一曲
