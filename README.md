@@ -11,12 +11,14 @@
 - pyinstaller -Fw MediaCtrl.py
 
 **使用方式：** 
-1. 双击dist目录下的install.vbs文件后，桌面会生成四个快捷方式
-2. 将快捷方式固定到任务栏中，开始使用吧
+1. [点击下载](https://github.com/lwq6783293/MediaCtrl/releases "releases")
+2. 解压当前文件至你指定的程序安装位置，如D盘根目录
+3. 双击dist目录下的install.vbs文件后，桌面会生成四个快捷方式
+4. 将快捷方式固定到任务栏中，开始使用吧
 
 **备注：** 
 - pre：上一曲
 - next：下一曲
 - p：播放-暂停
 - c：显示/隐藏桌面歌词  
-[![](https://github.com/lwq6783293/MediaCtrl/blob/master/img/2.png)](https://github.com/lwq6783293/MediaCtrl/blob/master/img/2.png)
+[![](https://github.com/longweiqiang/MediaCtrl/blob/master/img/2.png)](https://github.com/lwq6783293/MediaCtrl/blob/master/img/2.png)
