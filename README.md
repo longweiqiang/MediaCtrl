@@ -13,7 +13,7 @@
 **使用方式：** 
 1. [点击下载](https://github.com/longweiqiang/MediaCtrl/releases "releases")
 2. 解压当前文件至你指定的程序安装位置，如D盘根目录
-3. dist目录下的`*-install.vbs`文件表示你要生成的快捷方式图标颜色，当前提供了两套颜色方案，适合不同背景的任务栏
+3. dist目录下的`*-install.vbs`文件表示你要生成的快捷方式图标颜色，当前提供了两套颜色方案，适合不同背景的任务栏，如果不喜欢这两种配色，可自行更改dist文件夹中的四个图标文件，但文件名需一致，且需要ico格式
 - `black-install.vbs`为纯黑色背景
 - `white-install.vbs`为纯白色背景
 4. 双击dist目录下的`*-install.vbs`文件后，桌面会生成四个快捷方式
